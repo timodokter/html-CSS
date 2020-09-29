@@ -10,9 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4f46af4-4b43-4307-93ba-28fb8ccb226d" name="Default Changelist" comment="update 1.2">
-      <change beforePath="$PROJECT_DIR$/website/app.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/website/index.html" beforeDir="false" />
+    <list default="true" id="e4f46af4-4b43-4307-93ba-28fb8ccb226d" name="Default Changelist" comment="update 1.3">
+      <change afterPath="$PROJECT_DIR$/ps4/app.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cod/app.yaml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601028128779</updated>
       <workItem from="1601028130333" duration="1396000" />
-      <workItem from="1601369834941" duration="1599000" />
+      <workItem from="1601369834941" duration="1992000" />
     </task>
     <task id="LOCAL-00001" summary="instalatie">
       <created>1601028171020</created>
@@ -88,7 +88,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601370123663</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update 1.3">
+      <created>1601371447008</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1601371447008</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,17 +117,18 @@
     <MESSAGE value="instalatie" />
     <MESSAGE value="update 1.1" />
     <MESSAGE value="update 1.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 1.2" />
+    <MESSAGE value="update 1.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 1.3" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601369853856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601369853856" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601370125440">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601371450400">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601370125440" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601371450400" />
     <state x="760" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601028320483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
