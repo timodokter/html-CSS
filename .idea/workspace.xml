@@ -10,9 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4f46af4-4b43-4307-93ba-28fb8ccb226d" name="Default Changelist" comment="update 1.5">
+    <list default="true" id="e4f46af4-4b43-4307-93ba-28fb8ccb226d" name="Default Changelist" comment="update 1.6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ps4/artikel.html" beforeDir="false" afterPath="$PROJECT_DIR$/ps4/artikel.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ps4/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +48,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -59,7 +60,12 @@
       <option name="presentableId" value="Default" />
       <updated>1601028128779</updated>
       <workItem from="1601028130333" duration="1396000" />
-      <workItem from="1601369834941" duration="3277000" />
+      <workItem from="1601369834941" duration="3335000" />
+      <workItem from="1601373182410" duration="48000" />
+      <workItem from="1601373237418" duration="84000" />
+      <workItem from="1601373327987" duration="11000" />
+      <workItem from="1601373352940" duration="76000" />
+      <workItem from="1601373435389" duration="1710000" />
     </task>
     <task id="LOCAL-00001" summary="instalatie">
       <created>1601028171020</created>
@@ -110,7 +116,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601372653620</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update 1.6">
+      <created>1601373165163</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1601373165163</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,21 +148,22 @@
     <MESSAGE value="update 1.3" />
     <MESSAGE value="update 1.4" />
     <MESSAGE value="update 1.5" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 1.5" />
+    <MESSAGE value="update 1.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 1.6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601369853856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601369853856" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1601373114728">
+    <state x="169" y="173" width="998" height="708" key="SettingsEditor" timestamp="1601374142907">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601373114728" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601372654927">
+    <state x="169" y="173" width="998" height="708" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601374142907" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601373166708">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601372654927" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601373166708" />
     <state x="760" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601028320483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
