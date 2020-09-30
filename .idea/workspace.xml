@@ -10,9 +10,14 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4f46af4-4b43-4307-93ba-28fb8ccb226d" name="Default Changelist" comment="update 3.4">
+    <list default="true" id="e4f46af4-4b43-4307-93ba-28fb8ccb226d" name="Default Changelist" comment="update 3.6">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mijntabellen/mijntabellen.html" beforeDir="false" afterPath="$PROJECT_DIR$/mijntabellen/mijntabellen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps4/app.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps4/artikel.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps4/img/controller.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps4/img/ps4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ps4/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +70,7 @@
       <workItem from="1601373327987" duration="11000" />
       <workItem from="1601373352940" duration="76000" />
       <workItem from="1601373435389" duration="1710000" />
-      <workItem from="1601453302557" duration="5041000" />
+      <workItem from="1601453302557" duration="5804000" />
     </task>
     <task id="LOCAL-00001" summary="instalatie">
       <created>1601028171020</created>
@@ -158,7 +163,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601457811807</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="update 3.5">
+      <created>1601458455402</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1601458455402</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update 3.6">
+      <created>1601458590094</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1601458590094</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -188,7 +207,9 @@
     <MESSAGE value="update 4.2" />
     <MESSAGE value="update 3.3" />
     <MESSAGE value="update 3.4" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 3.4" />
+    <MESSAGE value="update 3.5" />
+    <MESSAGE value="update 3.6" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 3.6" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601369853856">
@@ -199,10 +220,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="169" y="173" width="998" height="708" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601374142907" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601457820440">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601458591333">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601457820440" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601458591333" />
     <state x="760" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601028320483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
