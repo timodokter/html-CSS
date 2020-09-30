@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4f46af4-4b43-4307-93ba-28fb8ccb226d" name="Default Changelist" comment="update 3.9" />
+    <list default="true" id="e4f46af4-4b43-4307-93ba-28fb8ccb226d" name="Default Changelist" comment="update 3.10">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mijntabellen/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/mijntabellen/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +66,8 @@
       <workItem from="1601373352940" duration="76000" />
       <workItem from="1601373435389" duration="1710000" />
       <workItem from="1601453302557" duration="6390000" />
+      <workItem from="1601472757634" duration="1006000" />
+      <workItem from="1601477193017" duration="361000" />
     </task>
     <task id="LOCAL-00001" summary="instalatie">
       <created>1601028171020</created>
@@ -190,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601459660037</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="update 3.10">
+      <created>1601472846239</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1601472846240</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,7 +237,8 @@
     <MESSAGE value="update 3.7" />
     <MESSAGE value="update 3.8" />
     <MESSAGE value="update 3.9" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 3.9" />
+    <MESSAGE value="update 3.10" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 3.10" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601369853856">
@@ -236,10 +249,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="169" y="173" width="998" height="708" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601374142907" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601459661312">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601472850466">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601459661312" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601472850466" />
     <state x="760" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601028320483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
