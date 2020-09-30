@@ -11,6 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4f46af4-4b43-4307-93ba-28fb8ccb226d" name="Default Changelist" comment="update 1.6">
+      <change afterPath="$PROJECT_DIR$/mijntabellen/mijntabellen.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ps4/artikel.html" beforeDir="false" afterPath="$PROJECT_DIR$/ps4/artikel.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ps4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/ps4/index.html" afterDir="false" />
@@ -66,6 +67,7 @@
       <workItem from="1601373327987" duration="11000" />
       <workItem from="1601373352940" duration="76000" />
       <workItem from="1601373435389" duration="1710000" />
+      <workItem from="1601453302557" duration="2465000" />
     </task>
     <task id="LOCAL-00001" summary="instalatie">
       <created>1601028171020</created>
