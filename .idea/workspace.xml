@@ -10,11 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4f46af4-4b43-4307-93ba-28fb8ccb226d" name="Default Changelist" comment="update 4.1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mijneerste website/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/mijneerste website/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mijntabellen/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/mijntabellen/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wilkens/WEI.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/wilkens/WEI.html" afterDir="false" />
+    <list default="true" id="e4f46af4-4b43-4307-93ba-28fb8ccb226d" name="Default Changelist" comment="ik heb de foto's toegevoegd">
+      <change beforePath="$PROJECT_DIR$/src/wilkens/WEI.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/wilkens/WEI.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +72,7 @@
       <workItem from="1601453302557" duration="6390000" />
       <workItem from="1601472757634" duration="1006000" />
       <workItem from="1601477193017" duration="447000" />
-      <workItem from="1601537970277" duration="2032000" />
+      <workItem from="1601537970277" duration="2213000" />
     </task>
     <task id="LOCAL-00001" summary="instalatie">
       <created>1601028171020</created>
@@ -224,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601539114139</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="ik heb de foto's toegevoegd">
+      <created>1601540120171</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1601540120171</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -261,25 +265,26 @@
     <MESSAGE value="update 3.10" />
     <MESSAGE value="update 3.11" />
     <MESSAGE value="update 4.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 4.1" />
+    <MESSAGE value="ik heb de foto's toegevoegd" />
+    <option name="LAST_COMMIT_MESSAGE" value="ik heb de foto's toegevoegd" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601369853856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601369853856" />
-    <state x="169" y="173" width="998" height="708" key="SettingsEditor" timestamp="1601540003587">
+    <state x="169" y="173" width="998" height="708" key="SettingsEditor" timestamp="1601540184959">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="169" y="173" width="998" height="708" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601540003587" />
+    <state x="169" y="173" width="998" height="708" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601540184959" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1601539747336">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601539747336" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601539116034">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601540121339">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601539116034" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601540121339" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601477635472" />
     <state x="760" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601028320483">
       <screen x="0" y="0" width="1920" height="1040" />
