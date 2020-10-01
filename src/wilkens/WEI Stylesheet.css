@@ -20,12 +20,29 @@ div.wrapper {
     margin: auto;
 }
 
+article {
+    float: left;
+    width: 50%;
+    margin-right: 2%;
+    margin-top: 30px;
+}
+
 table {
+    margin-top: 30px;
     border: 1px solid black;
+    border-collapse: collapse;
+    width: 48%;
 }
 
 td {
     padding: 15px;
     border: 1px solid black;
-    border-collapse: collapse;
+}
+
+td.Elektriciteit {
+    background-color: #ccffdd;
+}
+
+td.Aardgas {
+    background-color: #ccf2ff;
 }
