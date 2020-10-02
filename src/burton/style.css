@@ -50,6 +50,7 @@ article {
     width: 33%;
     padding-right: 10px;
     vertical-align: top;
+    padding-bottom: 20px;
 }
 
 article.last-child {
@@ -62,5 +63,5 @@ img.artikelfotos {
 
 footer {
     background-color: rgb(166,166,166);
-    margin: 0px;
+    margin: -20px;
 }
