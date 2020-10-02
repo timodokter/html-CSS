@@ -7,20 +7,20 @@ body {
     line-height: 24px;
 }
 
-div#wrapper {
+div#wrapper, footer{
     width: 1000px;
     margin: auto;
     background-color: rgb(255,234,234);
     padding: 20px;
 }
 
-nav a {
-    margin-right: 20px;
-}
-
 nav {
     margin-top: 20px;
     margin-bottom: 20px;
+}
+
+nav a {
+    margin-right: 20px;
 }
 
 section.appel, section.fotos{
@@ -58,4 +58,9 @@ article.last-child {
 
 img.artikelfotos {
     margin: 5px;
+}
+
+footer {
+    background-color: rgb(166,166,166);
+    margin: 0px;
 }
