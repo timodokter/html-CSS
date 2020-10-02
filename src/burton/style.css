@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+div#wrapper {
+    width: 1000px;
+    margin: auto;
+    background-color: rgb(255,234,234);
+    padding: 20px;
+}
+
+nav a {
+    margin-right: 20px;
+}
+
+nav {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+section.appel, section.fotos{
+    width: 50%;
+    float: left;
+}
+
+section.fotos {
+    text-align: right;
+}
+
+section.artikelen {
+
+}
+
+img.appel {
+    width: 479px;
+}
+
+img.visual {
+    width: 470px;
+    margin-bottom: -1px;
+}
+
+article {
+    border: 1px solid black;
+    display: inline-block;
+    width: 33%;
+    padding-right: 10px;
+}
+
+article.last-child {
+    padding-right: 0px;
+}
