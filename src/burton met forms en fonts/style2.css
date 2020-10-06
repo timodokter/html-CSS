@@ -48,3 +48,8 @@ div.input2 {
     padding: 10px;
     width: 380px;
 }
+
+.input select {
+    float: right;
+}
+
