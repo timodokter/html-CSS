@@ -58,3 +58,31 @@ div.input2 {
     width: 200px;
     height: 100px;
 }
+
+.sectiontwo {
+    width: 250px;
+    position: absolute;
+    top: 70px;
+    left: 430px;
+}
+
+.sectiontwo ul {
+    list-style-type: none;
+    padding: 0px;
+}
+
+div.checkbox {
+    display: list-item;
+    position: relative;
+    left: 150px;
+}
+
+.label {
+    position: relative;
+    top: 17px;
+}
+
+.buttons {
+    text-align: right;
+    width: 600px;
+}
