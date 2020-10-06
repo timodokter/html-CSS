@@ -3,24 +3,48 @@ body {
     font-family: Arial, sans-serif;
 }
 
-div.vakken {
-    width: 500px;
-    padding: 20px;
+h2 {
+    padding: 10px;
 }
 
-div.checkboxen {
-
-}
-
-div.buttons {
+div.sectionone {
 
 }
 
-input {
+ul.listone {
+    list-style-type: none;
+    padding: 0;
+}
+
+.listone li {
+    padding: 0px;
+}
+
+div.input {
+    width: 380px;
+    padding: 10px;
+}
+
+.input input {
     float: right;
-    width: 300px;
 }
 
-label {
-    float: left;
+.input label {
+    vertical-align: top;
+}
+
+div.man {
+    display: inline;
+    position: relative;
+    left: 100px;
+}
+
+div.vrouw {
+    display: inline;
+    float: right;
+}
+
+div.input2 {
+    padding: 10px;
+    width: 380px;
 }
