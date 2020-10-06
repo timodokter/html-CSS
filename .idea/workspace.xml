@@ -10,9 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4f46af4-4b43-4307-93ba-28fb8ccb226d" name="Default Changelist" comment="tot het geslacht invullen is af">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e4f46af4-4b43-4307-93ba-28fb8ccb226d" name="Default Changelist" comment="de geboortedatum werkt">
       <change beforePath="$PROJECT_DIR$/src/burton met forms en fonts/formulier.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/burton met forms en fonts/formulier.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/burton met forms en fonts/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/burton met forms en fonts/style2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,7 @@
       <workItem from="1601624787914" duration="8378000" />
       <workItem from="1601633366120" duration="4000" />
       <workItem from="1601633400983" duration="12000" />
-      <workItem from="1601969301143" duration="9511000" />
+      <workItem from="1601969301143" duration="9874000" />
     </task>
     <task id="LOCAL-00001" summary="instalatie">
       <created>1601028171020</created>
@@ -368,7 +368,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601980241032</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="de oogkleur werkt">
+      <created>1601980781802</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1601980781802</updated>
+    </task>
+    <task id="LOCAL-00043" summary="de geboortedatum werkt">
+      <created>1601980897686</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1601980897686</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -387,8 +401,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update 3.4" />
-    <MESSAGE value="update 3.5" />
     <MESSAGE value="update 3.6" />
     <MESSAGE value="update 3.7" />
     <MESSAGE value="update 3.8" />
@@ -412,7 +424,9 @@
     <MESSAGE value="de eerste helft van het inlog formulier is aangemaakt" />
     <MESSAGE value="het inlog tabje is af en een deel van het formulier ook" />
     <MESSAGE value="tot het geslacht invullen is af" />
-    <option name="LAST_COMMIT_MESSAGE" value="tot het geslacht invullen is af" />
+    <MESSAGE value="de oogkleur werkt" />
+    <MESSAGE value="de geboortedatum werkt" />
+    <option name="LAST_COMMIT_MESSAGE" value="de geboortedatum werkt" />
   </component>
   <component name="WindowStateProjectService">
     <state x="586" y="198" key="#Inspections" timestamp="1601973398116">
@@ -431,10 +445,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601539747336" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601980248050">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601980898879">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601980248050" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601980898879" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601477635472" />
     <state x="760" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601028320483">
       <screen x="0" y="0" width="1920" height="1040" />

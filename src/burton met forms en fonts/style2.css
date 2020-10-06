@@ -53,4 +53,8 @@ div.input2 {
     float: right;
 }
 
-.input input
+.input textarea {
+    float: right;
+    width: 200px;
+    height: 100px;
+}
