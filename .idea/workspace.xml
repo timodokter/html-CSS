@@ -10,7 +10,12 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4f46af4-4b43-4307-93ba-28fb8ccb226d" name="Default Changelist" comment="hij is af" />
+    <list default="true" id="e4f46af4-4b43-4307-93ba-28fb8ccb226d" name="Default Changelist" comment="ik heb de burton website geduplibceerd voor de volgende opdracht">
+      <change afterPath="$PROJECT_DIR$/src/burton met forms en fonts/Inloggen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/burton met forms en fonts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/burton met forms en fonts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/burton met forms en fonts/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/burton met forms en fonts/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -76,7 +81,7 @@
       <workItem from="1601624787914" duration="8378000" />
       <workItem from="1601633366120" duration="4000" />
       <workItem from="1601633400983" duration="12000" />
-      <workItem from="1601969301143" duration="1522000" />
+      <workItem from="1601969301143" duration="2232000" />
     </task>
     <task id="LOCAL-00001" summary="instalatie">
       <created>1601028171020</created>
@@ -330,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601972553888</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="ik heb de burton website geduplibceerd voor de volgende opdracht">
+      <created>1601972841460</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1601972841460</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -349,7 +361,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update 1.5" />
     <MESSAGE value="update 1.6" />
     <MESSAGE value="update 4.2" />
     <MESSAGE value="update 3.3" />
@@ -374,7 +385,8 @@
     <MESSAGE value="troubleshooting" />
     <MESSAGE value="footer werkt" />
     <MESSAGE value="hij is af" />
-    <option name="LAST_COMMIT_MESSAGE" value="hij is af" />
+    <MESSAGE value="ik heb de burton website geduplibceerd voor de volgende opdracht" />
+    <option name="LAST_COMMIT_MESSAGE" value="ik heb de burton website geduplibceerd voor de volgende opdracht" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601369853856">
@@ -389,10 +401,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601539747336" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601633343127">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601972845657">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601633343127" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601972845657" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601477635472" />
     <state x="760" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601028320483">
       <screen x="0" y="0" width="1920" height="1040" />
