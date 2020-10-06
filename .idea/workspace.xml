@@ -10,8 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4f46af4-4b43-4307-93ba-28fb8ccb226d" name="Default Changelist" comment="troubleshooting">
-      <change beforePath="$PROJECT_DIR$/src/burton/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/burton/index.html" afterDir="false" />
+    <list default="true" id="e4f46af4-4b43-4307-93ba-28fb8ccb226d" name="Default Changelist" comment="hij is af">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +75,10 @@
       <workItem from="1601472757634" duration="1006000" />
       <workItem from="1601477193017" duration="447000" />
       <workItem from="1601537970277" duration="6035000" />
-      <workItem from="1601624787914" duration="8062000" />
+      <workItem from="1601624787914" duration="8378000" />
+      <workItem from="1601633366120" duration="4000" />
+      <workItem from="1601633400983" duration="12000" />
+      <workItem from="1601969301143" duration="1212000" />
     </task>
     <task id="LOCAL-00001" summary="instalatie">
       <created>1601028171020</created>
@@ -308,7 +311,21 @@
       <option name="project" value="LOCAL" />
       <updated>1601632957409</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="footer werkt">
+      <created>1601633183762</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1601633183762</updated>
+    </task>
+    <task id="LOCAL-00035" summary="hij is af">
+      <created>1601633342375</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1601633342375</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -327,8 +344,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update 1.3" />
-    <MESSAGE value="update 1.4" />
     <MESSAGE value="update 1.5" />
     <MESSAGE value="update 1.6" />
     <MESSAGE value="update 4.2" />
@@ -352,7 +367,9 @@
     <MESSAGE value="de website begint vorm te krijgen" />
     <MESSAGE value="de website is af" />
     <MESSAGE value="troubleshooting" />
-    <option name="LAST_COMMIT_MESSAGE" value="troubleshooting" />
+    <MESSAGE value="footer werkt" />
+    <MESSAGE value="hij is af" />
+    <option name="LAST_COMMIT_MESSAGE" value="hij is af" />
   </component>
   <component name="WindowStateProjectService">
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601369853856">
@@ -367,10 +384,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601539747336" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601632958617">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601633343127">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601632958617" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601633343127" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601477635472" />
     <state x="760" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601028320483">
       <screen x="0" y="0" width="1920" height="1040" />
