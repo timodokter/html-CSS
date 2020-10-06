@@ -1,0 +1,22 @@
+body {
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+div.vakken {
+    width: 500px;
+    padding: 20px;
+}
+
+div.checkboxen {
+
+}
+
+div.buttons {
+
+}
+
+input {
+    float: right;
+    width: 300px;
+}

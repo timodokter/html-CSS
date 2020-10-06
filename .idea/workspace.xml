@@ -10,10 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4f46af4-4b43-4307-93ba-28fb8ccb226d" name="Default Changelist" comment="ik heb de burton website geduplibceerd voor de volgende opdracht">
-      <change afterPath="$PROJECT_DIR$/src/burton met forms en fonts/Inloggen.html" afterDir="false" />
+    <list default="true" id="e4f46af4-4b43-4307-93ba-28fb8ccb226d" name="Default Changelist" comment="de eerste helft van het inlog formulier is aangemaakt">
+      <change afterPath="$PROJECT_DIR$/src/burton met forms en fonts/style2.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/burton met forms en fonts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/burton met forms en fonts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/burton met forms en fonts/Inloggen.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/burton met forms en fonts/Inloggen.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/burton met forms en fonts/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/burton met forms en fonts/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -81,7 +81,7 @@
       <workItem from="1601624787914" duration="8378000" />
       <workItem from="1601633366120" duration="4000" />
       <workItem from="1601633400983" duration="12000" />
-      <workItem from="1601969301143" duration="2232000" />
+      <workItem from="1601969301143" duration="3681000" />
     </task>
     <task id="LOCAL-00001" summary="instalatie">
       <created>1601028171020</created>
@@ -342,7 +342,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601972841460</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="de eerste helft van het inlog formulier is aangemaakt">
+      <created>1601973534459</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1601973534459</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -361,7 +368,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update 1.6" />
     <MESSAGE value="update 4.2" />
     <MESSAGE value="update 3.3" />
     <MESSAGE value="update 3.4" />
@@ -386,9 +392,14 @@
     <MESSAGE value="footer werkt" />
     <MESSAGE value="hij is af" />
     <MESSAGE value="ik heb de burton website geduplibceerd voor de volgende opdracht" />
-    <option name="LAST_COMMIT_MESSAGE" value="ik heb de burton website geduplibceerd voor de volgende opdracht" />
+    <MESSAGE value="de eerste helft van het inlog formulier is aangemaakt" />
+    <option name="LAST_COMMIT_MESSAGE" value="de eerste helft van het inlog formulier is aangemaakt" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="586" y="198" key="#Inspections" timestamp="1601973398116">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="586" y="198" key="#Inspections/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601973398116" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601369853856">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -401,14 +412,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601539747336" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601972845657">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601973535473">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601972845657" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601973535473" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601477635472" />
     <state x="760" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601028320483">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="760" y="421" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601028320483" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1601973509310">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601973509310" />
   </component>
 </project>
