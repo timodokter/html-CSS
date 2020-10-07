@@ -10,10 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4f46af4-4b43-4307-93ba-28fb8ccb226d" name="Default Changelist" comment="het tekstvak is af">
+    <list default="true" id="e4f46af4-4b43-4307-93ba-28fb8ccb226d" name="Default Changelist" comment="het formulie is af">
+      <change afterPath="$PROJECT_DIR$/src/true music/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/burton met forms en fonts/formulier.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/burton met forms en fonts/formulier.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/burton met forms en fonts/style2.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/burton met forms en fonts/style2.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +79,8 @@
       <workItem from="1601624787914" duration="8378000" />
       <workItem from="1601633366120" duration="4000" />
       <workItem from="1601633400983" duration="12000" />
-      <workItem from="1601969301143" duration="11172000" />
+      <workItem from="1601969301143" duration="11588000" />
+      <workItem from="1602056079509" duration="617000" />
     </task>
     <task id="LOCAL-00001" summary="instalatie">
       <created>1601028171020</created>
@@ -390,7 +390,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601981165450</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="het formulie is af">
+      <created>1601982537193</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1601982537193</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -409,7 +416,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update 3.7" />
     <MESSAGE value="update 3.8" />
     <MESSAGE value="update 3.9" />
     <MESSAGE value="update 3.10" />
@@ -434,7 +440,8 @@
     <MESSAGE value="de oogkleur werkt" />
     <MESSAGE value="de geboortedatum werkt" />
     <MESSAGE value="het tekstvak is af" />
-    <option name="LAST_COMMIT_MESSAGE" value="het tekstvak is af" />
+    <MESSAGE value="het formulie is af" />
+    <option name="LAST_COMMIT_MESSAGE" value="het formulie is af" />
   </component>
   <component name="WindowStateProjectService">
     <state x="586" y="198" key="#Inspections" timestamp="1601973398116">
@@ -453,10 +460,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601539747336" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601981166560">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601982538392">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601981166560" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601982538392" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601477635472" />
     <state x="760" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601028320483">
       <screen x="0" y="0" width="1920" height="1040" />
