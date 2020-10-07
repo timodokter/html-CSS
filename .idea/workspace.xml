@@ -10,9 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4f46af4-4b43-4307-93ba-28fb8ccb226d" name="Default Changelist" comment="het formulie is af">
-      <change afterPath="$PROJECT_DIR$/src/true music/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e4f46af4-4b43-4307-93ba-28fb8ccb226d" name="Default Changelist" comment="de website voor true music is aangemaakt">
+      <change afterPath="$PROJECT_DIR$/src/true music/truemusic.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/true music/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/true music/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,8 +25,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -80,7 +80,7 @@
       <workItem from="1601633366120" duration="4000" />
       <workItem from="1601633400983" duration="12000" />
       <workItem from="1601969301143" duration="11588000" />
-      <workItem from="1602056079509" duration="617000" />
+      <workItem from="1602056079509" duration="997000" />
     </task>
     <task id="LOCAL-00001" summary="instalatie">
       <created>1601028171020</created>
@@ -397,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601982537193</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="de website voor true music is aangemaakt">
+      <created>1602056873198</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1602056873198</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -416,7 +423,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update 3.8" />
     <MESSAGE value="update 3.9" />
     <MESSAGE value="update 3.10" />
     <MESSAGE value="update 3.11" />
@@ -441,17 +447,18 @@
     <MESSAGE value="de geboortedatum werkt" />
     <MESSAGE value="het tekstvak is af" />
     <MESSAGE value="het formulie is af" />
-    <option name="LAST_COMMIT_MESSAGE" value="het formulie is af" />
+    <MESSAGE value="de website voor true music is aangemaakt" />
+    <option name="LAST_COMMIT_MESSAGE" value="de website voor true music is aangemaakt" />
   </component>
   <component name="WindowStateProjectService">
     <state x="586" y="198" key="#Inspections" timestamp="1601973398116">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="586" y="198" key="#Inspections/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601973398116" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1601369853856">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1602056815070">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601369853856" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602056815070" />
     <state x="169" y="173" width="998" height="708" key="SettingsEditor" timestamp="1601980383706">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -460,10 +467,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601539747336" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1601982538392">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602056874347">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601982538392" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602056874347" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601477635472" />
     <state x="760" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601028320483">
       <screen x="0" y="0" width="1920" height="1040" />
