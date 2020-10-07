@@ -21,11 +21,9 @@ img {
 }
 
 body {
-    background-color: rgb(250,239,233);
     font-family: 'Raleway', sans-serif;
     padding: 0px;
-    max-width: 1000px;
-    margin: auto;
+    margin: 0px;
 }
 
 /* -- navigatie -- */
@@ -47,6 +45,10 @@ li a {
     color: white;
     text-decoration: none;
     font-weight: 700;
+}
+
+div#wrapper {
+    background-color: rgb(250,239,233);
 }
 
 @media all and (min-width: 550px){
@@ -118,3 +120,10 @@ footer h3 {
 }
 
 /* -- einde sections en footer -- */
+
+@media all and (min-width: 550px) {
+    div#wrapper {
+        width: 1200px;
+        margin: auto;
+    }
+}
