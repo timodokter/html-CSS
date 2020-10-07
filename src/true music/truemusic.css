@@ -1,8 +1,12 @@
 header {
-    background-color: aqua;
+    background-color: rgb(185,235,223);
     height: 300px;
 }
 
+nav {
+    background-color: rgb(120,115,122);
+}
+
 body {
-    background-color: pink;
+    background-color: rgb(250,239,233);
 }

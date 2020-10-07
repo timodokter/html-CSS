@@ -10,7 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4f46af4-4b43-4307-93ba-28fb8ccb226d" name="Default Changelist" comment="het css bestand is aangemaakt">
+    <list default="true" id="e4f46af4-4b43-4307-93ba-28fb8ccb226d" name="Default Changelist" comment="de links en de sectie nieuws zijn er">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/true music/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/true music/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/true music/truemusic.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/true music/truemusic.css" afterDir="false" />
     </list>
@@ -49,7 +50,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.gutterIcons" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -80,7 +81,8 @@
       <workItem from="1601633366120" duration="4000" />
       <workItem from="1601633400983" duration="12000" />
       <workItem from="1601969301143" duration="11588000" />
-      <workItem from="1602056079509" duration="1332000" />
+      <workItem from="1602056079509" duration="1492000" />
+      <workItem from="1602057581212" duration="666000" />
     </task>
     <task id="LOCAL-00001" summary="instalatie">
       <created>1601028171020</created>
@@ -411,7 +413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602057136360</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="de links en de sectie nieuws zijn er">
+      <created>1602057568351</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1602057568351</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -430,7 +439,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update 3.10" />
     <MESSAGE value="update 3.11" />
     <MESSAGE value="update 4.1" />
     <MESSAGE value="ik heb de foto's toegevoegd" />
@@ -455,7 +463,8 @@
     <MESSAGE value="het formulie is af" />
     <MESSAGE value="de website voor true music is aangemaakt" />
     <MESSAGE value="het css bestand is aangemaakt" />
-    <option name="LAST_COMMIT_MESSAGE" value="het css bestand is aangemaakt" />
+    <MESSAGE value="de links en de sectie nieuws zijn er" />
+    <option name="LAST_COMMIT_MESSAGE" value="de links en de sectie nieuws zijn er" />
   </component>
   <component name="WindowStateProjectService">
     <state x="586" y="198" key="#Inspections" timestamp="1601973398116">
@@ -466,18 +475,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602056815070" />
-    <state x="169" y="173" width="998" height="708" key="SettingsEditor" timestamp="1601980383706">
+    <state x="169" y="173" width="998" height="708" key="SettingsEditor" timestamp="1602057614381">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="169" y="173" width="998" height="708" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601980383706" />
+    <state x="169" y="173" width="998" height="708" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602057614381" />
     <state width="498" height="446" key="SwitcherDM" timestamp="1601539747336">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601539747336" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602057137877">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602057569725">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602057137877" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602057569725" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601477635472" />
     <state x="760" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601028320483">
       <screen x="0" y="0" width="1920" height="1040" />
