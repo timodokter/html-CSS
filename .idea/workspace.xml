@@ -10,9 +10,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4f46af4-4b43-4307-93ba-28fb8ccb226d" name="Default Changelist" comment="de kleuren en artikelen zijnj toegevoegd">
+    <list default="true" id="e4f46af4-4b43-4307-93ba-28fb8ccb226d" name="Default Changelist" comment="de navigatie balk is af">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/true music/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/true music/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/true music/truemusic.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/true music/truemusic.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -82,14 +81,7 @@
       <workItem from="1601633400983" duration="12000" />
       <workItem from="1601969301143" duration="11588000" />
       <workItem from="1602056079509" duration="1492000" />
-      <workItem from="1602057581212" duration="3795000" />
-    </task>
-    <task id="LOCAL-00001" summary="instalatie">
-      <created>1601028171020</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1601028171020</updated>
+      <workItem from="1602057581212" duration="5360000" />
     </task>
     <task id="LOCAL-00002" summary="instalatie">
       <created>1601028179300</created>
@@ -427,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602058379602</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="de navigatie balk is af">
+      <created>1602061643261</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1602061643261</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -446,7 +445,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="update 4.1" />
     <MESSAGE value="ik heb de foto's toegevoegd" />
     <MESSAGE value="het artikel en een deel van het tabel zijn toegevoegd" />
     <MESSAGE value="het tabel is afgemaakt" />
@@ -471,7 +469,8 @@
     <MESSAGE value="het css bestand is aangemaakt" />
     <MESSAGE value="de links en de sectie nieuws zijn er" />
     <MESSAGE value="de kleuren en artikelen zijnj toegevoegd" />
-    <option name="LAST_COMMIT_MESSAGE" value="de kleuren en artikelen zijnj toegevoegd" />
+    <MESSAGE value="de navigatie balk is af" />
+    <option name="LAST_COMMIT_MESSAGE" value="de navigatie balk is af" />
   </component>
   <component name="WindowStateProjectService">
     <state x="586" y="198" key="#Inspections" timestamp="1601973398116">
@@ -494,10 +493,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1601539747336" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602058380746">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1602061644719">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602058380746" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1602061644719" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1601477635472" />
     <state x="760" y="421" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601028320483">
       <screen x="0" y="0" width="1920" height="1040" />
