@@ -1,12 +1,81 @@
 header {
     background-color: rgb(185,235,223);
     height: 300px;
+    text-align: center;
 }
 
 nav {
-    background-color: rgb(120,115,122);
+
+}
+
+.logo {
+    max-height: 300px;
 }
 
 body {
     background-color: rgb(250,239,233);
+    font-family: 'Raleway', sans-serif;
+    padding: 0px;
+    max-width: 1000px;
+    margin: auto;
+}
+
+li {
+    background-color: rgb(128,128,128);
+    line-height: 20px;
+    padding: 10px;
+    border-top: 1px solid white;
+    padding-left: 20px;
+}
+
+ul {
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+}
+
+li a {
+    color: white;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+@media all and (min-width: 550px){
+    ul {
+        background-color: rgb(128,128,128);
+        border-top: 1px solid white;
+    }
+    li {
+        display: inline-block;
+        border: none;
+    }
+}
+
+h3 {
+    color: rgb(220,106,94);
+    font-size: 22px;
+    font-weight: 600;
+}
+
+
+
+#niews {
+    padding: 20px;
+}
+
+#instrumenten {
+    padding: 20px;
+}
+
+footer {
+    background-color: rgb(128,128,128);
+    padding: 20px;
+}
+
+footer p {
+    color: white;
+}
+
+footer h3 {
+    color: white;
 }
