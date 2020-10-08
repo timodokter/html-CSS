@@ -121,7 +121,7 @@ footer h3 {
 
 /* -- einde sections en footer -- */
 
-@media all and (min-width: 550px) {
+@media all and (min-width: 1200px) {
     div#wrapper {
         width: 1200px;
         margin: auto;
